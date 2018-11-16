@@ -1,0 +1,10 @@
+{
+  "name": "bootstrap-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tshepo Mgaga",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
